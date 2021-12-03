@@ -1,6 +1,6 @@
 import sqlite3
 
-TOKEN = '106AHm7RnJIdRug'
+TOKEN = '5023426840:AAGoQqPYmsHuDhlR7PxCncAOKtUDUgwxkj8'
 
 STARTMSG = "Hi, i am translator bot. I use google python and google API. To change lang use /choose"
 KEYMSG = "Choose input or output"
